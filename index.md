@@ -12,11 +12,4 @@ On this site you will find a how-to guide including a series of suggestions and 
 
 
 
-{% if site.show_downloads %}
-        <ul class="downloads">
-          <li><a href="{{ EMOTIVE_UpdatedHow-to-Guide.pdf }}">Download the<strong> EMOTIVE Dialogic Chatbot How-to-Guide</strong></a></li>
-          <li><a href="{{ EMOTIVEFigure8Model.txt }}">Download the template for <strong>the Figure 8 Model </strong></a></li>
-          <li><a href="{{ EMOTIVENestingDollModel.txt }}">Download the template for<strong>the Nesting Doll Model </strong></a></li>
-          <li><a href="{{ EMOTIVEFunnelModel.txt }}">Download the template for<strong>the Funnel Model </strong></a></li>
-        </ul>
-        {% endif %}
+
