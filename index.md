@@ -1,8 +1,8 @@
 ---
 layout: default
 ---
-## EMOTIVE Chatbots
-### A social, provocative, and affective digital tool.
+# Chatbots: 
+## A social, provocative, and affective digital tool.
 
 This website is a result of research completed by the EU-funded EMOTIVE Project. EMOTIVE believes cultural sites are highly emotional places. Regardless of age, location or state of preservation, they are seedbeds not just of knowledge, but of emotional resonance and human connection. Affective experiences containing careful reference to a site’s cultural content have the power to transform heritage and museum visitor experiences, encourage repeat visits, facilitate direct and ongoing interaction between people, and improve educational impact.
 
