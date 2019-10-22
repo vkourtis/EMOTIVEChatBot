@@ -1,27 +1,15 @@
-## Welcome to GitHub Pages
+## EMOTIVE Chatbots
+### A social, provocative, and affective digital tool.
 
-You can use the [editor on GitHub](https://github.com/Emotivedcb1/EMOTIVEChatBot/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This toolkit is a result of research completed by the EU-funded EMOTIVE Project. EMOTIVE believes cultural sites are highly emotional places. Regardless of age, location or state of preservation, they are seedbeds not just of knowledge, but of emotional resonance and human connection. Affective experiences containing careful reference to a site’s cultural content have the power to transform heritage and museum visitor experiences, encourage repeat visits, facilitate direct and ongoing interaction between people, and improve educational impact. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+As a form of interpretation, chatbots are an inexpensive (or free as shown here) and innovative method of reaching your visitors where they are, whether that be on your social media pages, website, or as a companion to a physical visit to site. However, we feel their true strength lies in their inherently communicative nature, as tools that prompt conversations and challenge users through active engagement.  
 
-### Markdown
+On this site you will find a how-to guide including a series of suggestions and technical step-by-step walkthroughs to build your own bot on SnatchBot and three distinct chatbot templates. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
 ```
