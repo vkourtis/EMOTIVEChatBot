@@ -7,19 +7,8 @@ As a form of interpretation, chatbots are an inexpensive (or free as shown here)
 
 On this site you will find a how-to guide including a series of suggestions and technical step-by-step walkthroughs to build your own bot on SnatchBot and three distinct chatbot templates. 
 
+![Image](EMOTIVE_logo_H_White_CMYK-01.png)
 
+[Link] (EMOTIVE_UpdatedHow-to-Guide.pdf)
 
-
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Emotivedcb1/EMOTIVEChatBot/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[Link] (EMOTIVENestingDollModel.txt) [Link](EMOTIVEFunnelModel.txt) [Link](EMOTIVEFigure8Model.txt) 
